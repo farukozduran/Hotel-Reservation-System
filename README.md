@@ -48,3 +48,52 @@ Proje 4 ana katmandan oluşmaktadır:
 ---
 
 *Bu proje SoftIto Backend Eğitimi pratikleri kapsamında geliştirilmiştir.*
+
+
+## 📸 Ekran Görüntüleri (Screenshots)
+
+Sistemin arayüzüne ve yönetim paneline ait ekran görüntülerine aşağıdan ulaşabilirsiniz:
+
+### 🌐 Kullanıcı Ekranları (User Area)
+
+#### Anasayfa (Üst Kısım)
+![Anasayfa Giriş ve Karşılama](assets/screenshots/anasayfa1.png)
+
+#### Anasayfa (Alt Kısım & Detaylar)
+![Anasayfa Otel Listesi ve Detaylar](assets/screenshots/anasayfa2.png)
+
+---
+
+### 🔐 Kimlik Doğrulama Sayfaları (Authentication)
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>Giriş Yap (Login)</strong><br />
+      <img src="assets/screenshots/login.png" alt="Giriş Ekranı" width="100%"/>
+    </td>
+    <td width="50%" align="center">
+      <strong>Kayıt Ol (Register)</strong><br />
+      <img src="assets/screenshots/register.png" alt="Kayıt Ekranı" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Yönetim Paneli (Admin Area)
+
+#### Admin Dashboard (Genel Raporlama Ekranı)
+![Admin Dashboard](assets/screenshots/admin_dashboard.png)
+
+#### Otel Yönetimi (CRUD)
+![Admin Oteller](assets/screenshots/admin_oteller.png)
+
+#### Oda Tipleri Yönetimi
+![Admin Oda Tipleri](assets/screenshots/admin_oda_tipleri.png)
+
+#### Misafir Yönetimi
+![Admin Misafirler](assets/screenshots/admin_misafirler.png)
+
+#### Rezervasyon Yönetimi & Raporlama
+![Admin Rezervasyonlar](assets/screenshots/admin_rezervasyonlar.png)
