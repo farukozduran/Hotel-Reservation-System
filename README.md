@@ -57,7 +57,7 @@ Sistemin arayüzüne ve yönetim paneline ait ekran görüntülerine aşağıdan
 ### 🌐 Kullanıcı Ekranları (User Area)
 
 #### Anasayfa (Üst Kısım)
-![Anasayfa Giriş ve Karşılama](assets/screenshots/anasayfa1.png)
+![Anasayfa Giriş ve Karşılama](assets/screenshots/anasayfa.png)
 
 #### Anasayfa (Alt Kısım & Detaylar)
 ![Anasayfa Otel Listesi ve Detaylar](assets/screenshots/anasayfa2.png)
